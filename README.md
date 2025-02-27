@@ -1,6 +1,6 @@
-<h1>Client-Server Communication System (CCS)</h1>
+<h1>Centralized Computing System (CCS)</h1>
 
-<p>The Client-Server Communication System (CCS) is a Java-based application designed to facilitate communication between clients and a server using both TCP and UDP protocols. This project allows clients to perform arithmetic operations and receive results in real-time, while also providing service discovery capabilities through UDP.</p>
+<p>The Centralized Computing System (CCS) is a Java-based application designed to facilitate communication between clients and a server using both TCP and UDP protocols. This project allows clients to perform arithmetic operations and receive results in real-time, while also providing service discovery capabilities through UDP.</p>
 
 <h2>Key Features:</h2>
 <ul>
